@@ -1,2 +1,16 @@
-# desafio-jogo-de-adivinhacao-portugol
-Desafio da criação de um jogo de adivinhação em portugol, onde o algorítimo gera um número aleatório de 1 até 100 e o usuário tem de adivinhar qual o número sorteado.
+# Desafio: Jogo de Adivinhação!
+- Data: 29/01/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso Jornada Base - Lógica
+- O que é: Um código de baixa complexidade de um programa de um jogo de adivinhação em portugol, onde o algorítimo gera um número aleatório de 1 até 100 e o usuário tem de adivinhar qual o número sorteado.
+- Temas envolvidos:
+    - Estrutura de repetição 'enquanto';
+    - estruturas condicionais 'se', 'senao', 'senao se';
+    -  atribuição de variáveis;
+    -  incremento de variáveis;
+    -  biblioteca util;
+    -  método sorteia da biblioteca util;
+    -  entrada e saída de dados no console;
+    -  operadores aritiméticos;
+    -  operadores lógicos;
+    -  operadores relacionais;
+    -  concatenação.
